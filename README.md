@@ -8,4 +8,4 @@ This is in a mix project so that I can keep organized and reuse code but that do
 ## Table of times and solutions
 | Day | Part 1 | Part 2 |
 | --- | --- | --- |
-| Day 1 | ~9:30 | ~9:35 |
+| [Day 1](aoc_2022/lib/2022/day-1/calories.ex) | 11/30 ~9:30PM | 11/30 ~9:35PM |
