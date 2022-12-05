@@ -8,8 +8,8 @@ The solutions are all in .exs script files (if you want to run them it's explain
 ## Table of times and solutions for 2022
 | Day | Part 1 | Part 2 |
 | --- | --- | --- |
-| [Day 1](2022/day-1/day1.ex) | 00:23:26 | 00:27:23 |
-| [Day 2](2022/day-2/day2.ex) | 00:20:11 | 00:37:38 |
-| [Day 3](2022/day-3/day3.ex) | 00:34:41 | 00:40:35 |
-| [Day 4](2022/day-4/day4.ex) | 02:18:36 | 02:21:19 |
-| [Day 5](2022/day-5/day5.ex) | 13:54:56 | 13:59:28 |
+| [Day 1](aoc_2022/2022/day-1/day1.exs) | 00:23:26 | 00:27:23 |
+| [Day 2](aoc_2022/2022/day-2/day2.exs) | 00:20:11 | 00:37:38 |
+| [Day 3](aoc_2022/2022/day-3/day3.exs) | 00:34:41 | 00:40:35 |
+| [Day 4](aoc_2022/2022/day-4/day4.exs) | 02:18:36 | 02:21:19 |
+| [Day 5](aoc_2022/2022/day-5/day5.exs) | 13:54:56 | 13:59:28 |
