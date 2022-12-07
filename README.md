@@ -13,3 +13,5 @@ The solutions are all in .exs script files (if you want to run them it's explain
 | [Day 3](2022/day-3/day3.ex) | 00:34:41 | 00:40:35 |
 | [Day 4](2022/day-4/day4.ex) | 02:18:36 | 02:21:19 |
 | [Day 5](2022/day-5/day5.ex) | 13:54:56 | 13:59:28 |
+| [Day 6](2022/day-6/day6.ex) | 02:07:45 | 02:09:27 |
+| [Day 7](2022/day-7/day7.ex) | 13:08:20 | 13:23:24 |
