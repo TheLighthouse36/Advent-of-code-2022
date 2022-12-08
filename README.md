@@ -15,4 +15,4 @@ The solutions are all in .exs script files (if you want to run them it's explain
 | [Day 5](aoc_2022/2022/day-5/day5.exs) | 13:54:56 | 13:59:28 |
 | [Day 6](aoc_2022/2022/day-6/day6.exs) | 02:07:45 | 02:09:27 |
 | [Day 7](aoc_2022/2022/day-7/day7.exs) | 13:08:20 | 13:23:24 |
-| [Day 8](aoc_2022/2022/day-8/day8.exs) | 13:08:20 | 13:23:24 |
+| [Day 8](aoc_2022/2022/day-8/day8.exs) | 07:46:13 | 08:00:27 |
